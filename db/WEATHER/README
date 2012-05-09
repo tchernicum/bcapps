@@ -1,0 +1,4 @@
+These files contain average temperature over multiple years for each
+month/day/hour. See ../ish-history.csv to see which stations these are
+(the first two fields in ish-history are the name of the bz2
+file). Last column indicates number of years that were averaged.
